@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Computer Science student
 ------------------------------------------
 
-I started learning programming in October 2023. The infinite puzzle that is this subject has completely absorbed me. I am currently at the point of honing my skills and looking for a job.
+I started learning programming in October 2023. The infinite puzzle that is this subject has completely absorbed me. I am currently at the point of sharpening my skills and looking for a job.
 
 * 🌍  I'm based in Olsztyn
 * 🖥️  See my portfolio at [My Website](http://szymeknawrocki.github.io/SzymonNawrocki-Portfolio/)
