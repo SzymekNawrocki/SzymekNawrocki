@@ -8,7 +8,7 @@ I started learning programming in October 2023. The infinite puzzle that is this
 
 * 🌍  I'm based in Olsztyn
 * 🖥️  See my portfolio at [My Website](http://szymeknawrocki.github.io/SzymonNawrocki-Portfolio/)
-* ✉️  You can contact me at [szymonjakubnawrocki@gmail.com](mailto:szymonjakubnawrocki@gmail.com)
+* ✉️  You can contact me at [szymonjakubnawrocki@gmail.com](mailto:kontakt@szymonnawrocki.dev)
 * ⚡  I have a cat named Albus
 
 ### Skills
