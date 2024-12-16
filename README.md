@@ -1,6 +1,6 @@
 ![Frame 31](https://github.com/user-attachments/assets/2eed64a8-3b42-4e23-9e98-d6b59a778898)
 
-<h1>Hi My name is Szymon 👋 </h1>
+<h1>Hi! My name is Szymon 👋 </h1>
 
 <ul>
   <li>🚀 Member of <a href="https://github.com/aspirise" target="_blank" rel="noopener">Aspirise</a></li>
