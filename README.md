@@ -1,12 +1,12 @@
-![Frame 31](https://github.com/user-attachments/assets/2eed64a8-3b42-4e23-9e98-d6b59a778898)
+<a href="https://github.com/aspirise" rel="noopener" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2eed64a8-3b42-4e23-9e98-d6b59a778898" alt="Aspirise - We Create Top-Level Digital Products"/>
+</a>
 
 <h1>Hi! My name is Szymon 👋 </h1>
 
-<ul>
-  <li>🚀 Member of <a href="https://github.com/aspirise" target="_blank" rel="noopener">Aspirise</a></li>
-  <li>🎓 Information Technology Student</li>
-  <li>🥋 Martial Arts Enthusiast</li>
-</ul>
+<div>🚀 Member of <a href="https://github.com/aspirise" target="_blank" rel="noopener">Aspirise</a></div>
+<div>🎓 Information Technology Student</div>
+<div>🥋 Martial Arts Enthusiast</div>
 
 ### Skills
 
