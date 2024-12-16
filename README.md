@@ -1,14 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Szymon
+Hi My name is Szymon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Web Developer and Computer Science student
+Web Developer and Information Technology student
 ------------------------------------------
 
-I started learning programming in October 2023. The infinite puzzle that is this subject has completely absorbed me. I am currently at the point of sharpening my skills and looking for a job.
 
-* 🌍  Based in Olsztyn
-* 🖥️  See my portfolio at [My Website](http://szymeknawrocki.github.io/SzymonNawrocki-Portfolio/)
-* ✉️  You can contact me at [kontakt@szymonnawrocki.dev](mailto:kontakt@szymonnawrocki.dev)
+* Based in Olsztyn
+* See my portfolio at [My Website](http://szymeknawrocki.github.io/SzymonNawrocki-Portfolio/)
+* You can contact me at [kontakt@szymonnawrocki.dev](mailto:kontakt@szymonnawrocki.dev)
+* Member of [Aspirise]
+* Information Technology Student
+* Martial Arts Enthusiast
 
 ### Skills
 
