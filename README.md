@@ -1,19 +1,16 @@
-Hi My name is Szymon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
+![Frame 31](https://github.com/user-attachments/assets/2eed64a8-3b42-4e23-9e98-d6b59a778898)
 
-Web Developer and Information Technology student
-------------------------------------------
+<h1>Hi My name is Szymon 👋 </h1>
 
-
-* Based in Olsztyn
-* See my portfolio at [My Website](http://szymeknawrocki.github.io/SzymonNawrocki-Portfolio/)
-* You can contact me at [kontakt@szymonnawrocki.dev](mailto:kontakt@szymonnawrocki.dev)
-* Member of [Aspirise]
-* Information Technology Student
-* Martial Arts Enthusiast
+<ul>
+  <li>🌍 Based in Olsztyn</li>
+  <li>🚀 Member of <a href="https://github.com/aspirise" target="_blank" rel="noopener">Aspirise</a></li>
+  <li>🎓 Information Technology Student</li>
+  <li>🥋 Martial Arts Enthusiast</li>
+</ul>
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
