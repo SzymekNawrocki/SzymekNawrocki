@@ -3,7 +3,6 @@
 <h1>Hi My name is Szymon 👋 </h1>
 
 <ul>
-  <li>🌍 Based in Olsztyn</li>
   <li>🚀 Member of <a href="https://github.com/aspirise" target="_blank" rel="noopener">Aspirise</a></li>
   <li>🎓 Information Technology Student</li>
   <li>🥋 Martial Arts Enthusiast</li>
