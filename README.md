@@ -1,10 +1,6 @@
-<a href="https://github.com/aspirise" rel="noopener" target="_blank">
-  <img src="https://github.com/user-attachments/assets/5328012e-849d-4444-a271-164856fe3cc6" alt="Aspirise - We Create Top-Level Digital Products"/>
-</a>
 
 <h1>Hi! My name is Szymon 👋 </h1>
 
-<div>🚀 Member of <a href="https://github.com/aspirise" target="_blank" rel="noopener">Aspirise</a></div>
 <div>🎓 Information Technology Student</div>
 <div>🥋 Martial Arts Enthusiast</div>
 
