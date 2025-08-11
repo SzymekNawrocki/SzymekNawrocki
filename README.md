@@ -1,8 +1,7 @@
 
 <h1>Hi! My name is Szymon 👋 </h1>
 
-<div>🎓 Information Technology Student</div>
-<div>🥋 Martial Arts Enthusiast</div>
+<div>🎓 Information Technology Student 3/4</div>
 
 ### Skills
 
